@@ -72,4 +72,5 @@ The installation uses `~/Programs` folder for storing temporary installation fil
 
 Great job. You are good to go.
 
-
+## Want more goodies?
+1. [Setup zshell with Oh My Zsh](install-zshell.md)
