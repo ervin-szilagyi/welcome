@@ -16,7 +16,7 @@ Note: you can paste comands inside your terminal by pressing `Ctrl+Shift+V`.
 
 ## Create new folder and clone this repository into it
 
-`cd ~ && mkdir Programs && cd Programs && git clone ...`
+`cd ~ && mkdir Programs && cd Programs && git clone git@github.com:ervin-szilagyi/welcome.git`
 
 ## Run the installation script
 
