@@ -75,3 +75,5 @@ Great job. You are good to go.
 
 ## Want more goodies?
 1. [Setup zshell with Oh My Zsh](install-zshell.md)
+2. [Configure Vim](vim-config.md)
+
