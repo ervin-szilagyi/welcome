@@ -1,7 +1,7 @@
 #!/bin/bash
 
-apt update
-apt install zsh powerline fonts-powerline -y
+sudo -S pt update
+sudo -S apt install zsh powerline fonts-powerline -y
 
 # get Oh My Zsh
 git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh

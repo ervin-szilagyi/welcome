@@ -2,9 +2,9 @@
 
 Z-shell with Oh My Zsh gives you a better terminal experience than bash. We can install it following the steps above:
 
-1. Run `setup-zsh.sh` with super-user rights:
+1. Run `setup-zsh.sh`:
 ```
-sudo setup.sh
+setup-zsh.sh
 ```
 
 2. Open .zshrc configuration file using a file editor:
@@ -19,7 +19,7 @@ ZSH_THEME="agnoster"
 
 4. Replace bash with zsell:
 ```
-chsh -s /bin/zsh
+sudo chsh -s /bin/zsh
 ```
 
 5. Logout from current session or restart your PC.
