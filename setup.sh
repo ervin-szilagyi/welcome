@@ -16,8 +16,7 @@ snap install code --classic
 snap install intellij-idea-ultimate --classic
 
 # install Java 8
-cd ~/Programs && ~/.local/bin/gdown https://drive.google.com/uc?id=1ir1iU6h3Aygn8KcIxaXWoBD9DQZS2IG0 &&
-git clone https://github.com/ervin-szilagyi/install-java && ./install-java/install-java.sh -f jdk-8u221-linux-x64.tar.gz
+gdown https://drive.google.com/uc?id=1ir1iU6h3Aygn8KcIxaXWoBD9DQZS2IG0 && git clone https://github.com/ervin-szilagyi/install-java && yes | ./install-java/install-java.sh -f jdk-8u221-linux-x64.tar.gz
 
 # install node
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -

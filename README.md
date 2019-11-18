@@ -42,7 +42,7 @@ Browser
 
 * Chrome
 
-`cd dev-laptop-setup && chmod u+x ./setup.sh && sudo ./setup.sh`
+`cd welcome && chmod u+x ./setup.sh && sudo ./setup.sh`
 
 ## Configure IntellIJ
 
