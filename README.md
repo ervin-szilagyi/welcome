@@ -50,7 +50,7 @@ By pressing `Super (Windows)` key, you should be able to search for installed ap
 
 ## Install Docker
 
-Please install Docker by following script: `./setup-docker.sh`. This will install docker and docker-compose on your machine. Please run fill your user and run  `sudo usermod -aG docker your-user` in order to avoid the need to use docker with `sudo` every time. Please note that you will have to log out and log back in order for this change to take place.  
+Please install Docker by running the following script: `./setup-docker.sh`. This will install docker and docker-compose on your machine. Please fill your user and run  `sudo usermod -aG docker your-user` in order to avoid the need to use docker with `sudo` every time. Please note that you will have to log out and log back in order for this change to take place.  
 
 
 ## GitHub account
