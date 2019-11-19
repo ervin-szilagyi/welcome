@@ -10,6 +10,10 @@ apt install curl -y
 apt install python-pip -y
 pip install gdown
 
+#install utilities
+apt install tree -y
+apt install htop -y
+
 # install IDE/text editors
 apt install vim-gtk -y
 snap install code --classic

@@ -20,7 +20,7 @@ Note: you can paste comands inside your terminal by pressing `Ctrl+Shift+V`.
 
 ## Run the installation script
 
-This will install the following tools:
+The script bellow will install the following tools:
 
 Development:
 
@@ -41,6 +41,11 @@ Communication:
 Browser
 
 * Chrome
+
+Utilities
+
+* tree
+* htop
 
 `cd welcome && sudo ./setup.sh`
 
