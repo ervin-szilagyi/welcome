@@ -13,7 +13,6 @@ pip install gdown
 #install utilities
 apt install tree -y
 apt install htop -y
-apt install fzf -y
 
 # install IDE/text editors
 apt install vim-gtk -y
