@@ -46,6 +46,7 @@ Utilities
 
 * tree
 * htop
+* fzf
 
 `cd welcome && sudo ./setup.sh`
 
