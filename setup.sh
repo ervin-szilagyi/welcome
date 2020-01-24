@@ -23,7 +23,7 @@ snap install intellij-idea-ultimate --classic
 gdown https://drive.google.com/uc?id=1ir1iU6h3Aygn8KcIxaXWoBD9DQZS2IG0 && git clone https://github.com/ervin-szilagyi/install-java && yes | ./install-java/install-java.sh -f jdk-8u221-linux-x64.tar.gz
 
 # install node
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 # install yarn
