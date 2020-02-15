@@ -51,4 +51,7 @@ apt install ./google-chrome-stable_current_amd64.deb -y
 # install REST client
 snap install insomnia
 
+# install graphical GIT client
+sudo -H npm install -g ungit
+
 echo "--------INSTALLATION FINISHED--------"
